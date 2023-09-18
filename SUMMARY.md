@@ -10,6 +10,7 @@
 ## OS2faktor
 
 * [Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
+* [Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
 
 ## Meebook
 
