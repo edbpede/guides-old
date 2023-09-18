@@ -15,3 +15,10 @@
 ## Meebook
 
 * [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
+
+## Gode Links
+
+* [Oversigt over links](gode-links/oversigt-over-links.md)
+* [YouTube](https://piped.video)
+* [YouTube Music](https://hyperpipe.surge.sh)
+* [Google Translate](https://deepl.com/translator)

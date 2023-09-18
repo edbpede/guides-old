@@ -28,18 +28,5 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 
 [Guide: Kopiere meddelelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
 
-####
 
-### Gode links
 
-Alternativ til YouTube:
-
-{% embed url="https://piped.video" %}
-
-Alternativ til YouTube Music:
-
-{% embed url="https://hyperpipe.surge.sh/" %}
-
-Alternativ til Google Translate:
-
-{% embed url="https://www.deepl.com/translator" %}
