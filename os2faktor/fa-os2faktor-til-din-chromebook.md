@@ -10,7 +10,7 @@ I Ishøj Kommune bruger vi OS2faktor, når vi skal tilgå sikre filer i Aula, el
 
 Forestil dig, at din konto på nettet er som dit hjem. Normalt bruger du en nøgle (dit kodeord) for at komme ind. Men hvad nu hvis en tyv får fat i din nøgle? Derfor har nogle tjenester en ekstra lås, som kun du kan åbne.
 
-Når du prøver at logge ind, sender tjenesten en kort, midlertidig kode til din mobiltelefon eller en app, du har installeret. Denne kode er din "ekstra nøgle". Du skal indtaste denne kode sammen med dit normale kodeord for at komme ind i din "online bolig". På den måde er det meget sværere for uautoriserede personer at få adgang, selv hvis de har dit kodeord.
+Når du prøver at logge ind, vil OS2faktor spørge om en PIN-kode. Denne kode er din "ekstra nøgle". Du skal indtaste denne kode sammen med dit normale kodeord for at komme ind i din "online bolig". På den måde er det meget sværere for uautoriserede personer at få adgang, selv hvis de har dit kodeord.
 
 Denne ekstra kode er påkrævet, når man tilgår følsom data. Det kan være sikre filer på Aula, eller når man skal skifte koder for sine elever.
 
