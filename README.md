@@ -18,13 +18,28 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 
 [Guide: Skifte koder på meddel.dk (til Chromebooks)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
 
-#### Os2faktor
+#### OS2faktor
 
-[Guide: Få Os2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
+[Guide: Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
+
+[Guide: Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
 
 #### Meebook
 
 [Guide: Kopiere meddelelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
 
-##
+####
 
+### Gode links
+
+Alternativ til YouTube:
+
+{% embed url="https://piped.video" %}
+
+Alternativ til YouTube Music:
+
+{% embed url="https://hyperpipe.surge.sh/" %}
+
+Alternativ til Google Translate:
+
+{% embed url="https://www.deepl.com/translator" %}
