@@ -5,12 +5,12 @@ Her er en lille instruks til hvordan du kopierer en meddelelsesbog fra et skole�
 ## Instruks:
 
 1. Gå ind på [meebook.com](https://meebook.com/)
-2. Tryk på <img src="../.gitbook/assets/image.png" alt="" data-size="line">knappen
-3. Tryk på <img src="../.gitbook/assets/image (1).png" alt="" data-size="line">
+2. Tryk på <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">knappen
+3. Tryk på <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line">
 4. Log ind med dit UNI-Login eller meddel-konto
-5. Når du er logget ind, tryk på <img src="../.gitbook/assets/image (2).png" alt="" data-size="line">
-6. Vælg det skoleår, du gerne vil kopiere fra, fx <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">
-7. Vælg din årgang, fx <img src="../.gitbook/assets/image (4).png" alt="" data-size="line">
+5. Når du er logget ind, tryk på <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line">
+6. Vælg det skoleår, du gerne vil kopiere fra, fx <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line">
+7. Vælg din årgang, fx <img src="../.gitbook/assets/image (4) (1).png" alt="" data-size="line">
 8. Find elev, du gerne vil kopiere fra, fx <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">
 9. Tryk på blyantsikonet, ud for deres navn: <img src="../.gitbook/assets/image (6).png" alt="" data-size="line">
 10. Husk at vælg det rigtige skoleår. Nogle gange vælger Meebook automatisk det nyeste skoleår.
