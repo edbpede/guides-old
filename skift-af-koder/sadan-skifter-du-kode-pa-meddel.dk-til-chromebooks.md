@@ -7,10 +7,10 @@ Tidligere har man kunne skifte koderne på "kode.meddel.dk", men den er i færd 
 ### Instruks:
 
 1. Gå ind på denne hjemmeside: [https://login.ishoj.dk](https://login.ishoj.dk)
-2. Tryk på den grønne <img src="../.gitbook/assets/image (1).png" alt="" data-size="line"> knap
+2. Tryk på den grønne <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="line"> knap
 3. Du kan logge ind, enten med din meddel konto, eller med dit NemID/MitID
-4. Efter du er logget ind, skal du trykke på **Elever**, øverst på siden: <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">
+4. Efter du er logget ind, skal du trykke på **Elever**, øverst på siden: <img src="../.gitbook/assets/image (3) (1).png" alt="" data-size="line">
 5. Find eleven, du vil skifte koden på
-6. Tryk på nøgle-ikonet ud for elevens navn: <img src="../.gitbook/assets/image (2).png" alt="" data-size="line">
+6. Tryk på nøgle-ikonet ud for elevens navn: <img src="../.gitbook/assets/image (2) (1).png" alt="" data-size="line">
 7. Skriv det nye kodeord (eller lad eleven gøre det selv) og tryk på "Skift kodeord"
 8. Sådan! Eleven kan nu logge ind på sin Chromebook, med sin nye kode

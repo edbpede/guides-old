@@ -2,19 +2,29 @@
 
 * [Velkommen!](README.md)
 
-## Skift af koder
+## Meebook
 
-* [Sådan skifter du kode på uni-login](skift-af-koder/sadan-skifter-du-kode-pa-uni-login.md)
-* [Sådan skifter du kode på meddel.dk (til Chromebooks)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
+* [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
 
 ## OS2faktor
 
 * [Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
 * [Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
 
-## Meebook
+## Skift af koder
 
-* [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
+* [Sådan skifter du kode på uni-login](skift-af-koder/sadan-skifter-du-kode-pa-uni-login.md)
+* [Sådan skifter du kode på meddel.dk (til Chromebooks)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
+
+## Skoletube
+
+* [Oversigt](skoletube/oversigt/README.md)
+  * [Skoletube](skoletube/oversigt/skoletube/README.md)
+    * [Opret en kanal](skoletube/oversigt/skoletube/opret-en-kanal.md)
+    * [Indstillinger for din kanal](skoletube/oversigt/skoletube/indstillinger-for-din-kanal.md)
+    * [Hvordan finder jeg min kanal?](skoletube/oversigt/skoletube/hvordan-finder-jeg-min-kanal.md)
+    * [Invitér andre til din kanal](skoletube/oversigt/skoletube/inviter-andre-til-din-kanal.md)
+  * [WeVideo](skoletube/oversigt/wevideo.md)
 
 ## Gode Links
 
