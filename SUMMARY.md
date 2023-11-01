@@ -2,6 +2,12 @@
 
 * [Velkommen!](README.md)
 
+## Google Drev
+
+* [Oversigt](google-drev/oversigt/README.md)
+  * [Generelt](google-drev/oversigt/generelt/README.md)
+    * [Hvordan deler jeg dokumenter?](google-drev/oversigt/generelt/hvordan-deler-jeg-dokumenter.md)
+
 ## Meebook
 
 * [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
@@ -24,7 +30,8 @@
     * [Indstillinger for din kanal](skoletube/oversigt/skoletube/indstillinger-for-din-kanal.md)
     * [Hvordan finder jeg min kanal?](skoletube/oversigt/skoletube/hvordan-finder-jeg-min-kanal.md)
     * [Invitér andre til din kanal](skoletube/oversigt/skoletube/inviter-andre-til-din-kanal.md)
-  * [WeVideo](skoletube/oversigt/wevideo.md)
+  * [WeVideo](skoletube/oversigt/wevideo/README.md)
+    * [Sådan gemmer du din video](skoletube/oversigt/wevideo/sadan-gemmer-du-din-video.md)
 
 ## Gode Links
 

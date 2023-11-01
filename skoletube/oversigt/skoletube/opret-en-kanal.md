@@ -18,7 +18,7 @@ Her er en kort instruks til, hvordan du opretter en kanal på Skoletube. Kanalen
 <figure><img src="../../../.gitbook/assets/image (35).png" alt="" width="375"><figcaption></figcaption></figure>
 
 5. I hovedreglen kan du lade resten af indstillingerne være, men kig dem igennem, ift hvad dine behov er.
-6. Når du har valgt [dine indstillinger](indstillinger-for-din-kanal.md), skal du trykke på <img src="../../../.gitbook/assets/image-removebg-preview.png" alt="" data-size="line">nede i bunden af siden
+6. Når du har valgt [dine indstillinger](indstillinger-for-din-kanal.md), skal du trykke på <img src="../../../.gitbook/assets/image-removebg-preview (1).png" alt="" data-size="line">nede i bunden af siden
 
 
 
