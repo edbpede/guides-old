@@ -15,9 +15,9 @@ Men man kan sagtens dele dokumenter med udefrakommende alligevel. Det kræver ba
 Her er en kort instruks i, hvordan du deler et dokument med en, som ikke er tilknyttet Ishøj Kommune, eller som har en **meddel.dk** konto.
 
 1. Gå ind i dit dokument, sheet, eller hvad du gerne vil dele
-2. Tryk på <img src="../../../.gitbook/assets/image.png" alt="" data-size="line">&#x20;
-3. Vælg <img src="../../../.gitbook/assets/image (1).png" alt="" data-size="line">
-4. Vælg <img src="../../../.gitbook/assets/image (2).png" alt="" data-size="line">
+2. Tryk på <img src="../../../.gitbook/assets/image (14).png" alt="" data-size="line">&#x20;
+3. Vælg <img src="../../../.gitbook/assets/image (1) (1).png" alt="" data-size="line">
+4. Vælg <img src="../../../.gitbook/assets/image (2) (1).png" alt="" data-size="line">
 5. Der vil nu komme et vindue frem, hvor du kan ændre dine delingsindstillinger
 6. Under "**Generel adgang**", tryk på "**Begrænset**" og vælg "**Alle med linket**"
 

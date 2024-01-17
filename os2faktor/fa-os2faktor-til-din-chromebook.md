@@ -20,9 +20,9 @@ Denne ekstra kode er påkrævet, når man tilgår følsom data. Det kan være si
 
 1. Tryk på Chrome browser ikonet, nederst på din taskbar: <img src="../.gitbook/assets/trin001-removebg-preview.png" alt="" data-size="line">
 2. Tryk på puslespilsbrikken oppe i højre hjørne i Chrome browseren: <img src="../.gitbook/assets/trin002.png" alt="" data-size="line">
-3. Find "OS2faktor Chrome Extension" og tryk på knappenålen: <img src="../.gitbook/assets/image (12).png" alt="" data-size="line">
+3. Find "OS2faktor Chrome Extension" og tryk på knappenålen: <img src="../.gitbook/assets/image (12) (1).png" alt="" data-size="line">
 4. Nu har vi sat OS2faktor som et fast punkt i din Chrome browser. Så er den nemmere at finde!
-5. Det skulle gerne se sådan ud: <img src="../.gitbook/assets/image (13).png" alt="" data-size="line">
+5. Det skulle gerne se sådan ud: <img src="../.gitbook/assets/image (13) (1).png" alt="" data-size="line">
 6. Tryk derefter på OS2faktor ikonet: <img src="../.gitbook/assets/image (15).png" alt="" data-size="line">
 7. Tryk på "**Aktiver enhed**":
 
@@ -53,5 +53,7 @@ Denne ekstra kode er påkrævet, når man tilgår følsom data. Det kan være si
 
 
 
+### Fedt! Men hvordan bruger jeg så min OS2faktor?
 
+Du kan se hvordan du nu kan bruge din OS2faktor, ved [at trykke her](hvordan-bruger-jeg-os2faktor.md).&#x20;
 

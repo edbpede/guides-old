@@ -12,6 +12,10 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 
 ## Oversigt
 
+### Loginproblemer
+
+Guide: Den "bedste" måde at logge ind på (i Ishøj Kommune)
+
 ### Google Drev
 
 [Oversigt: Guides til Google Drev](google-drev/oversigt/)
@@ -31,6 +35,8 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 [Guide: Skifte koder på Uni-login](skift-af-koder/sadan-skifter-du-kode-pa-uni-login.md)
 
 [Guide: Skifte koder på meddel.dk (til Chromebooks](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)[)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
+
+[Guide: Skifte kode på min egen konto (til Chromebooks)](skift-af-koder/sadan-skifter-du-din-egen-kode-pa-din-chromebook.md)
 
 ### Skoletube
 
