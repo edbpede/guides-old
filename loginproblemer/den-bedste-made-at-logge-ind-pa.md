@@ -29,7 +29,7 @@ Det kan virke skørt, at vi gøre det gennem "Unilogin"-vejen, selvom vi ikke ko
 1. Gå ind på [Aula](https://aula.dk).
 2. Tryk på den mørkeblå kasse, hvor der står "Unilogin"
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="146"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="146"><figcaption></figcaption></figure>
 
 4. Derefter vælg <img src="../.gitbook/assets/image (3).png" alt="" data-size="line">
 5. Indtast nu din @**meddel.dk** konto og tryk på "**Næste**". I mit tilfælde vil det være "**pede1347@meddel.dk**"

@@ -6,9 +6,9 @@ Her er en lille instruks til hvordan du kopierer en meddelelsesbog fra et skole�
 
 1. Gå ind på [meebook.com](https://meebook.com/)
 2. Tryk på <img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" data-size="line">knappen
-3. Tryk på <img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="line">
+3. Tryk på <img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" data-size="line">
 4. Log ind med dit UNI-Login eller meddel-konto
-5. Når du er logget ind, tryk på <img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" data-size="line">
+5. Når du er logget ind, tryk på <img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" data-size="line">
 6. Vælg det skoleår, du gerne vil kopiere fra, fx <img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" data-size="line">
 7. Vælg din årgang, fx <img src="../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" data-size="line">
 8. Find elev, du gerne vil kopiere fra, fx <img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" data-size="line">
