@@ -41,6 +41,5 @@
 ## Gode Links
 
 * [Oversigt over links](gode-links/oversigt-over-links.md)
-* [YouTube](https://piped.lunar.icu)
-* [YouTube Music](https://hyperpipe.lunar.icu/)
+* [YouTube](https://yt.edbpede.net)
 * [Google Translate](https://deepl.com/translator)

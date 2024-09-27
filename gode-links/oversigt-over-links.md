@@ -12,11 +12,7 @@ De fleste af disse links vil være privatlivs-orienterede tjenester, som omgår 
 
 Alternativ til YouTube:
 
-{% embed url="https://piped.lunar.icu" %}
-
-Alternativ til YouTube Music:
-
-{% embed url="https://hyperpipe.lunar.icu" %}
+{% embed url="https://yt.edbpede.net" %}
 
 Alternativ til Google Translate:
 
