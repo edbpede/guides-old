@@ -26,7 +26,7 @@ Her er en kort instruks, for hvordan man logger ind, på "den bedste måde" på 
 
 Det kan virke skørt, at vi gøre det gennem "Unilogin"-vejen, selvom vi ikke kommer til at bruge vores Unilogin. Men det er sådan, man skal gøre.
 
-1. Gå ind på [Aula](https://aula.dk).
+1. Gå ind på [Aula](https://aula.dk) (eller en anden side, hvor du skal logge ind)
 2. Tryk på den mørkeblå kasse, hvor der står "Unilogin"
 
 <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="146"><figcaption></figcaption></figure>
@@ -36,16 +36,15 @@ Det kan virke skørt, at vi gøre det gennem "Unilogin"-vejen, selvom vi ikke ko
 
 <figure><img src="../.gitbook/assets/image (4).png" alt="" width="359"><figcaption></figcaption></figure>
 
-4. Når du trykker på <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">, vil du blive sendt videre til en login-side, som er prydet med Ishøj Kommunes flotte symboler/ikoner.
-5. Tryk derefter på <img src="../.gitbook/assets/image (8).png" alt="" data-size="line">
+4. Når du trykker på <img src="../.gitbook/assets/image (5).png" alt="" data-size="line">, vil du blive sendt videre til en login-side, som ser således ud:
 
-<figure><img src="../.gitbook/assets/image (7).png" alt="" width="364"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
-6. Indtast den kode, som du bruger til at logge ind på din Chromebook. \
+4. Indtast den kode, som du bruger til at logge ind på din Chromebook. \
    Hvis du har glemt din kode, så [tryk på dette link](../skift-af-koder/sadan-skifter-du-din-egen-kode-pa-din-chromebook.md), for at skifte den til en ny.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
-7. Tryk på <img src="../.gitbook/assets/image (10).png" alt="" data-size="line">, og du vil nu blive sendt videre til Aula
-8. Sådan! :thumbsup:
+4. Tryk derefter på <img src="../.gitbook/assets/image (42).png" alt="" data-size="line"> for at logge ind
+5. Sådan! :thumbsup: Du skulle nu gerne blive sendt videre og være logget ind på "den bedste måde".
 
