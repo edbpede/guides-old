@@ -3,7 +3,7 @@
 ### Hvordan bruger jeg OS2faktor?
 
 1. Du kan tjekke hvordan OS2faktor virker, ved fx at tilgå Aula's "sikre filer".
-2. Start med at logge ind på [Aula](https://aula.dk) - husk at brug din **@meddel.dk** konto!
+2. Start med at logge ind på [Aula](https://aula.dk) - husk at [brug din **@meddel.dk** konto](../loginproblemer/den-bedste-made-at-logge-ind-pa.md)!
 3. Tryk derefter på "**Filer**": <img src="../.gitbook/assets/image (27).png" alt="" data-size="line">
 4. Tryk på "Gå til **Sikre filer**":
 
