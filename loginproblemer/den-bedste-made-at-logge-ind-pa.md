@@ -22,9 +22,9 @@ Dermed ikke sagt, at der ikke kan opstå andre fejl eller problemer, men tanken 
 
 ### Metode 1: Unilogin-vejen
 
-Her er en kort instruks, for hvordan man logger ind, på "den bedste måde" på fx Aula.&#x20;
+Her er en kort instruks, for hvordan man logger ind, på den nye måde på fx Aula.
 
-Det kan virke skørt, at vi gøre det gennem "Unilogin"-vejen, selvom vi ikke kommer til at bruge vores Unilogin. Men det er sådan, man skal gøre.
+Det kan virke skørt, at vi gør det gennem "Unilogin"-vejen, selvom vi ikke kommer til at bruge vores Unilogin. Men det er en af måderne, man kan gøre det på.
 
 1\. Gå ind på fx [Aula](https://aula.dk)
 
@@ -70,7 +70,7 @@ Det kan virke skørt, at vi gøre det gennem "Unilogin"-vejen, selvom vi ikke ko
 
 Hvis den første metode ikke virker, kan man bruge Ishøj Kommunens "IdP" direkte. Grunden til at det ikke er "Metode 1", er at den nogle gange kan fejle.
 
-1\. Gå ind på Aula
+1\. Gå ind på [Aula](https://aula.dk)
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-12-06/003b32b8-fbbc-4d0a-b19a-ff8fdc352be6/ascreenshot.jpeg?tl_px=0,9&br_px=2218,1548&force_format=jpeg&q=100&width=1120.0)
 
