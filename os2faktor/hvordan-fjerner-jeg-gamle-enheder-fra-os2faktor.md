@@ -11,29 +11,29 @@ I øjeblikket er der kun én metode - med MitID.
 ### Metode 1: Med MitID
 
 1. Start med gå ind på dette link: [OS2faktor Forside](https://frontend.os2faktor.dk/)
-2. Tryk på <img src="../.gitbook/assets/image (45).png" alt="" data-size="line"> knappen
+2. Tryk på <img src="../.gitbook/assets/os2faktor-settings-button-01.png" alt="" data-size="line"> knappen
 3. Indtast dit MitID - i mit tilfælde "**edbpede**"
 
-<figure><img src="../.gitbook/assets/image (46).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/os2faktor-device-list-01.png" alt="" width="375"><figcaption></figcaption></figure>
 
 4. Log ind med dit MitID
 5. Du vil nu se oversigten over dine enheder:
 
-<figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/os2faktor-remove-device-01.png" alt=""><figcaption></figcaption></figure>
 
 6. Vælg den du gerne vil fjerne - fx "Chromebook" i mit tilfælde, da jeg ikke bruger den længere.
-7. Du skal trykke på <img src="../.gitbook/assets/image (48).png" alt="" data-size="line">-ikonet
+7. Du skal trykke på <img src="../.gitbook/assets/os2faktor-delete-icon-01.png" alt="" data-size="line">-ikonet
 8. Vælg "Slet Enhed"
 
-<figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/os2faktor-confirm-delete-01.png" alt=""><figcaption></figcaption></figure>
 
 9. Den spørger om du vil bekræfte det - Tryk på "Ja" for at slette den helt
 
-<figure><img src="../.gitbook/assets/image (50).png" alt="" width="257"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/os2faktor-device-warning-01.png" alt="" width="257"><figcaption></figcaption></figure>
 
 10. Den vil nu være fjernet fra listen:
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/os2faktor-device-removed-01.png" alt=""><figcaption></figcaption></figure>
 
 11. Hvis du vil tilføje en ny enhed, så kan [du se denne instruks](fa-os2faktor-til-din-chromebook.md)
 

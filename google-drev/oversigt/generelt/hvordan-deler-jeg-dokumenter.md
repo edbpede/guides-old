@@ -15,21 +15,21 @@ Men man kan sagtens dele dokumenter med udefrakommende alligevel. Det kræver ba
 Her er en kort instruks i, hvordan du deler et dokument med en, som ikke er tilknyttet Ishøj Kommune, eller som har en **meddel.dk** konto.
 
 1. Gå ind i dit dokument, sheet, eller hvad du gerne vil dele
-2. Tryk på <img src="../../../.gitbook/assets/image (14).png" alt="" data-size="line">&#x20;
-3. Vælg <img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">
-4. Vælg <img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" data-size="line">
+2. Tryk på <img src="../../../.gitbook/assets/gdrive-share-button-01.png" alt="" data-size="line">&#x20;
+3. Vælg <img src="../../../.gitbook/assets/gdrive-share-options-01.png" alt="" data-size="line">
+4. Vælg <img src="../../../.gitbook/assets/gdrive-share-recipient-01.png" alt="" data-size="line">
 5. Der vil nu komme et vindue frem, hvor du kan ændre dine delingsindstillinger
 6. Under "**Generel adgang**", tryk på "**Begrænset**" og vælg "**Alle med linket**"
 
-<figure><img src="../../../.gitbook/assets/image (37).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/gdrive-share-settings-01.png" alt="" width="375"><figcaption></figcaption></figure>
 
 7. Som standard vælger den, at dem du vil dele med, kun kan **Læse** dit dokument. Det betyder, at dem du deler linket med, ikke kan redigere i dit dokument, men kun kan læse
 
-<figure><img src="../../../.gitbook/assets/image (38).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/gdrive-share-advanced-01.png" alt="" width="375"><figcaption></figcaption></figure>
 
 8. Hvis man gerne vil give dem adgang til at redigere i dokumentet, vælg **Redaktør** i stedet for
 9. Vælg om de skal have **Læser** eller **Redaktør** adgang
-10. Tryk på <img src="../../../.gitbook/assets/image-removebg-preview.png" alt="" data-size="line">for at kopiere det link, som du kan dele
+10. Tryk på <img src="../../../.gitbook/assets/gdrive-copy-link-01.png" alt="" data-size="line">for at kopiere det link, som du kan dele
 11. Linket kan fx se således ud:\
     `https://docs.google.com/document/d/1e8MkOkBruYUsXxxXxxXDTUTXXXxzr3qlxMXxxbc/edit?usp=sharing`
 12. Det er dét link, som du skal sende til dem du gerne vil dele dokumentet med.
