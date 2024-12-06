@@ -30,6 +30,7 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 
 * [Guide: Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
 * [Guide: Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
+* [Guide: Hvordan fjerner jeg gamle enheder fra OS2faktor?](os2faktor/hvordan-fjerner-jeg-gamle-enheder-fra-os2faktor.md)
 
 ### Skift af koder
 
