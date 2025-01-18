@@ -2,6 +2,10 @@
 description: En samling af forskellige guides og instrukser til EDB værktøjer
 ---
 
+<div align="center">
+<img src=".gitbook/assets/edbpede.svg" alt="EDB Pede Logo" width="200"/>
+</div>
+
 # Velkommen!
 
 ## Hej til alle besøgende!
