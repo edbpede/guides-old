@@ -24,9 +24,13 @@
 
 ## Skift af koder
 
-* [Sådan skifter du kode på uni-login](skift-af-koder/sadan-skifter-du-kode-pa-uni-login.md)
-* [Sådan skifter du kode på meddel.dk (til Chromebooks)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
+* [Sådan skifter du kode på elevernes Uni-login](skift-af-koder/sadan-skifter-du-kode-pa-uni-login.md)
+* [Sådan skifter du kode på elevernes Chromebook (meddel.dk konto)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
 * [Sådan skifter du din egen kode på din Chromebook](skift-af-koder/sadan-skifter-du-din-egen-kode-pa-din-chromebook.md)
+
+## Andet
+
+* [Sådan logger du på den nye eReolenGO!](andet/sadan-logger-du-pa-den-nye-ereolengo.md)
 
 ## Skoletube
 
