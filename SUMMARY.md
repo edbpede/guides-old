@@ -16,17 +16,21 @@
 
 * [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
 
-## OS2faktor
+## Nye medarbjedere
 
-* [Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
-* [Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
-* [Hvordan fjerner jeg gamle enheder fra OS2faktor?](os2faktor/hvordan-fjerner-jeg-gamle-enheder-fra-os2faktor.md)
+* [Hvordan kommer jeg på ind min Chromebook?](nye-medarbjedere/hvordan-kommer-jeg-pa-ind-min-chromebook.md)
 
 ## Skift af koder
 
 * [Sådan skifter du kode på elevernes Uni-login](skift-af-koder/sadan-skifter-du-kode-pa-uni-login.md)
 * [Sådan skifter du kode på elevernes Chromebook (meddel.dk konto)](skift-af-koder/sadan-skifter-du-kode-pa-meddel.dk-til-chromebooks.md)
 * [Sådan skifter du din egen kode på din Chromebook](skift-af-koder/sadan-skifter-du-din-egen-kode-pa-din-chromebook.md)
+
+## OS2faktor
+
+* [Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
+* [Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
+* [Hvordan fjerner jeg gamle enheder fra OS2faktor?](os2faktor/hvordan-fjerner-jeg-gamle-enheder-fra-os2faktor.md)
 
 ## Andet
 
