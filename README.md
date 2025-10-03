@@ -16,16 +16,6 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 
 * [Guide: Den "bedste" måde at logge ind på (i Ishøj Kommune)](loginproblemer/den-bedste-made-at-logge-ind-pa.md)
 
-### Google Drev
-
-* [Oversigt: Guides til Google Drev](google-drev/oversigt/)
-  * [Generelt](google-drev/oversigt/generelt/)
-    * [Hvordan deler jeg dokumenter? (med udefrakommende)](google-drev/oversigt/generelt/hvordan-deler-jeg-dokumenter.md)
-
-### Meebook
-
-* [Guide: Kopiere meddelelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
-
 ### Nye medarbejdere
 
 * [Guide: Hvordan kommer jeg ind på min Chromebook?](nye-medarbjedere/hvordan-kommer-jeg-pa-ind-min-chromebook.md)
@@ -41,6 +31,16 @@ Her vil være en samling af forskellige guides af instrukser, som har at gøre m
 * [Guide: Få OS2faktor til din Chromebook](os2faktor/fa-os2faktor-til-din-chromebook.md)
 * [Guide: Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
 * [Guide: Hvordan fjerner jeg gamle enheder fra OS2faktor?](os2faktor/hvordan-fjerner-jeg-gamle-enheder-fra-os2faktor.md)
+
+### Google Drev
+
+* [Oversigt: Guides til Google Drev](google-drev/oversigt/)
+  * [Generelt](google-drev/oversigt/generelt/)
+    * [Hvordan deler jeg dokumenter? (med udefrakommende)](google-drev/oversigt/generelt/hvordan-deler-jeg-dokumenter.md)
+
+### Meebook
+
+* [Guide: Kopiere meddelelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
 
 ### Skoletube
 

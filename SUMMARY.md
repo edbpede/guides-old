@@ -6,16 +6,6 @@
 
 * [Den bedste måde at logge ind på](loginproblemer/den-bedste-made-at-logge-ind-pa.md)
 
-## Google Drev
-
-* [Oversigt](google-drev/oversigt/README.md)
-  * [Generelt](google-drev/oversigt/generelt/README.md)
-    * [Hvordan deler jeg dokumenter?](google-drev/oversigt/generelt/hvordan-deler-jeg-dokumenter.md)
-
-## Meebook
-
-* [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
-
 ## Nye medarbjedere
 
 * [Hvordan kommer jeg på ind min Chromebook?](nye-medarbjedere/hvordan-kommer-jeg-pa-ind-min-chromebook.md)
@@ -32,9 +22,15 @@
 * [Hvordan bruger jeg OS2faktor?](os2faktor/hvordan-bruger-jeg-os2faktor.md)
 * [Hvordan fjerner jeg gamle enheder fra OS2faktor?](os2faktor/hvordan-fjerner-jeg-gamle-enheder-fra-os2faktor.md)
 
-## Andet
+## Google Drev
 
-* [Sådan logger du på den nye eReolenGO!](andet/sadan-logger-du-pa-den-nye-ereolengo.md)
+* [Oversigt](google-drev/oversigt/README.md)
+  * [Generelt](google-drev/oversigt/generelt/README.md)
+    * [Hvordan deler jeg dokumenter?](google-drev/oversigt/generelt/hvordan-deler-jeg-dokumenter.md)
+
+## Meebook
+
+* [Kopiere meddelsesbog til nyt skoleår](meebook/kopiere-meddelsesbog-til-nyt-skolear.md)
 
 ## Skoletube
 
@@ -46,6 +42,10 @@
     * [Invitér andre til din kanal](skoletube/oversigt/skoletube/inviter-andre-til-din-kanal.md)
   * [WeVideo](skoletube/oversigt/wevideo/README.md)
     * [Sådan gemmer du din video](skoletube/oversigt/wevideo/sadan-gemmer-du-din-video.md)
+
+## Andet
+
+* [Sådan logger du på den nye eReolenGO!](andet/sadan-logger-du-pa-den-nye-ereolengo.md)
 
 ## Gode Links
 
