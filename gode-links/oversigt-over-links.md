@@ -15,11 +15,11 @@ Du kan omgå blokeringen af YouTube ved at bruge dette bogmærke.&#x20;
 **Følg trinene i Chrome/Chromium:**
 
 1. Åbn bogmærke-bjælken
-   * Tryk Ctrl+Shift+B (Cmd+Shift+B på Mac) for at vise bogmærke-bjælken, hvis den ikke allerede er synlig.
+   * Tryk Ctrl+Shift+B for at vise bogmærke-bjælken, hvis den ikke allerede er synlig.
 2. Opret et nyt bogmærke
    * Højreklik på bogmærke-bjælken og vælg “Tilføj side…”
 3. Navngiv bogmærket
-   * Skriv: Yout-ube
+   * Skriv: **Giv Mig YouTube!**
 4.  Indsæt denne kode i URL-feltet
 
     * Slet alt i URL/Adresse-feltet og indsæt følgende:
@@ -30,9 +30,9 @@ Du kan omgå blokeringen af YouTube ved at bruge dette bogmærke.&#x20;
 5. Gem
    * Klik “Gem”/“Save”.
 6. Brug bogmærket
-   * Gå til en hvilken som helst YouTube-side (fx en video eller søgning).
-   * Klik på bogmærket “Yout-ube” i bogmærke-bjælken.
-   * Voilá!
+   * Gå til en hvilken som helst YouTube-video
+   * Klik på bogmærket “**Giv Mig YouTube!**” i bogmærke-bjælken.
+   * Du skulle nu blive sendt videre til YouTube, som du kan bruge.
 
 ### Gode links
 
