@@ -46,9 +46,10 @@
 ## Andet
 
 * [Sådan logger du på den nye eReolenGO!](andet/sadan-logger-du-pa-den-nye-ereolengo.md)
+* [Sådan kan du stadig se YouTube](andet/sadan-kan-du-stadig-se-youtube.md)
 
 ## Gode Links
 
 * [Oversigt over links](gode-links/oversigt-over-links.md)
-* [YouTube](https://yt.edbpede.net)
+* [YouTube Konvertering](https://yt.edbpede.net)
 * [Google Translate](https://deepl.com/translator)
